@@ -31,8 +31,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "deleteCustomer",
+            "deleteCustomer.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "babyNames",
+            "babyNames.json"
           ]
         }
       ],
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "state",
+      "firstform": "deleteCustomer",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
