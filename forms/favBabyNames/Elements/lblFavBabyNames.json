@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblFavBabyNames",
   "labelStyle": "text",
-  "left": 41,
+  "left": 24,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 25,
+  "top": 9,
   "value": "Select your favorite name from the dropdown",
   "width": "auto"
 }
